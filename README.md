@@ -1,8 +1,8 @@
-Short description
+Description
 --------------------
 This project contains a MATLAB package containing a MEX interface to the C program [Cliquer](http://users.tkk.fi/pat/cliquer.html/), which contains a collection of optimized routines for finding cliques in graphs.  A (very slightly) modified version of the Cliquer project is included here for convenience (and because a slight modification was required to make the MEX compiler happy on my machine).
 
-This project currently only utilizes a small subset of Cliquer's functionality (specifically a portion dealing with unweighted graphs).
+Additional README and LICENSE files for Cliquer can be found in the directory `+Cliquer/cliquer/`.  This project currently utilizes only a small subset of Cliquer's functionality (specifically a portion dealing with unweighted graphs).
 
 Usage
 --------------------
