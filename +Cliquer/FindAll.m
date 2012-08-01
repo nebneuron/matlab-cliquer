@@ -20,8 +20,8 @@
 %    iMaxNumCliques
 %       The maximum number of cliques to be returned by this function. I
 %       believe that this is necessary due to a limitation of Cliquer. Note
-%       that the correct total number "iNumCliques" is returned even if
-%       "iMaxNumCliques" is smaller.
+%       that the correct total number `iNumCliques` is returned even if
+%       `iMaxNumCliques` is smaller.
 % Return values:
 %    iNumCliques
 %       The total number of cliques within the range of sizes.
